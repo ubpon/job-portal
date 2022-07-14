@@ -13,7 +13,7 @@ Included currently are features like:
 
 ## Contributing
 
-If you found a bug or would like to request a new feature, feel free to [create an issue](https://github.com/aschmelyun/laravel-job-board/issues/new) on this repo. Depending on how complex or elaborate it is, it will potentially be used as future content added on to the original video tutorial series. Pull requests are also welcome, and will be evaluated on a case-by-case basis!
+If you found a bug or would like to request a new feature, feel free to [create an issue](https://github.com/ubpon/job-portal/issues/new) on this repo. Depending on how complex or elaborate it is, it will potentially be used as future content added on to the original video tutorial series. Pull requests are also welcome, and will be evaluated on a case-by-case basis!
 
 ## License
 
